@@ -1,0 +1,1 @@
+This will hold the Codeup curriculum exercises for anomaly detection.
